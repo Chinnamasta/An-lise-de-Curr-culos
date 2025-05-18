@@ -1,5 +1,5 @@
 # An-lise-de-Curr-culos
-# Joana - Sua Psicóloga e Tech Recruiter Pessoal
+# Joana - Psicóloga e Tech Recruiter
 
 Olá! 👋 Eu sou a Joana, uma psicóloga com experiência em recrutamento na área de tecnologia. Este script em Python foi desenvolvido para me ajudar a conhecer melhor o seu perfil profissional a partir do seu currículo em PDF.
 
